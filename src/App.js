@@ -11,6 +11,9 @@ class App extends Component {
           <p>
             Sceedap da deedappp
           </p>
+          <p>
+            Boop baa daa deedap
+          </p>
           <a
             className="App-link"
             href="https://reactjs.org"
